@@ -1,7 +1,7 @@
 # IT314_Lab1
 Identification of Functional and Non-Functional Requirements for Library Management System
 
-Functional Requirements: 
+**Functional Requirements: **
 
 1) Anyone who wishes to utilise library resources must sign up using a username and password on the library information system.
 2) Any member who successfully enrolled should be able to access the LIS using the user ID and password they created.
@@ -12,7 +12,7 @@ Functional Requirements:
 
 
 
-Non-Functional Requirements:
+**Non-Functional Requirements: **
 
 1) The software should be developed in HTML5 
 2) The software can be used using the institute LAN only.
