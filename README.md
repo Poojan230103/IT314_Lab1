@@ -28,6 +28,7 @@
 - Knowing that sign language is used as a communication tool for the deaf, technology should help those who are unable to understand sign language by translating it into a form that can be easily comprehended. 
 - If a suitable medium of communication, such as a mobile phone, is available, this will make it easier for them to interact with others. This will assist in eliminating barriers experienced when hearing-impaired people interact with hearing people.
 - The application is optimized for Android devices and is designed for real-time use with low latency.
+- Advanced and reliable sensors should be adopted for the system.
 
 ## Scope:
 
@@ -38,5 +39,4 @@
 - Reliability
 - Affordability 
 - Performance
-- Advanced Sensing
 - Accessibility
